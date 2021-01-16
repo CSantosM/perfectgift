@@ -36,7 +36,7 @@ pre {
 .mediumnavigation {
 	background: #fff;
         transition: top 0.5s ease-in-out;
-        padding: 1.5rem 1rem;
+        padding: 1rem 1rem;
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
 }
 .nav-up {box-shadow:none;}
@@ -299,6 +299,10 @@ span.post-name a,span.post-read-more a:hover {
         padding: 0;
 }
 
+.navbar-brand img {
+    max-width: 50px;
+}
+
 .dropdown-item {
     display: block;
     width: 100%;
@@ -316,7 +320,7 @@ span.post-name a,span.post-read-more a:hover {
 .mediumnavigation .navbar-brand img {
 	margin-right:7px;
     vertical-align: text-bottom;
-    max-width:initial;
+    max-width:60px;
 }
 .mainheading h1.sitetitle {
 	font-family:Georgia;
@@ -326,9 +330,9 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/head.jpg);
+    background-image:url(../images/pattern.jpg);
     background-size:cover;
-    padding: 9rem 0;
+    padding: 3rem 0;
     margin-top:-87px;
     margin-bottom:3.5rem;
     z-index: 1;
@@ -595,6 +599,20 @@ a.btn {color:#fff;}
 	margin-left:10px;
 	font-weight:600;
 	text-transform:uppercase;
+}
+.btn.amazon {
+	text-align:center;
+	display:inline-block;
+    box-shadow: none;
+    border-color: #9c7e31 #90742d #786025 !important;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset;
+    background: #f0c14b;
+    background: linear-gradient(to bottom, #f7dfa5, #f0c14b) repeat scroll 0 0 rgba(0,0,0,0);
+    color: #111 !important;
+}
+.amazon-cart{
+    margin-right: 20px;
 }
 .post-top-meta .btn.follow {
 	margin-left:5px;

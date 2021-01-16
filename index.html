@@ -7,38 +7,17 @@ title: Inicio
 ================================================== -->
 <section class="intro full-width">
     <div class="wrapintro">
-        <h1>¿Necesitas el regalo perfecto?</h1>
-        <h2 class="lead">Descubre nuestra lista de los 10 regalos más exitosos</h2>
-        <a href="#" class="btn">Ver lista</a>
-        <a href="#" class="btn purple">Ver lista</a>
-        <a href="#category" class="btn">Ver lista</a>
+        <h1>Regalo</h1>
+        <h2 class="lead">La palabra regalo viene del francés y quiere decir que es un obsequio que brinda placer. Viene de (re) galo, en sentido de gala, galantería y galán. Es decir, viene del verbo galer que significa divertirse
+
+            Los regalos son una de las formas en que se transmiten la imagen que tienen los demás de nosotros.
+            Regalamos para mostrar amor, como forma de agradecimiento, porque así se espera de nosotros (un cumpleaños, una boda, amigo invisible, regalos de navidad, aniversario...) y por provocar la felicidad del otro que a su vez nos genera felicidad a nosotros.</h2>
+        <h2 class="lead">Si estás buscando un regalo para alguien, estás en el sitio correcto. Vamos a echar un vistazo a las categorías.</h2>
+        <a href="#category" class="btn">Ver categorías</a>
     </div>
 </section>
 
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>originales</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
 
 <!-- Posts Index
 ================================================== -->
@@ -50,11 +29,8 @@ title: Inicio
 
 <section class="recent-posts row" id="category">
 
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
 
-    <div class="col-sm-8">
+    <div class="col-12">
 
         <div class="section-title">
             <h2><span>Categorías</span></h2>
@@ -62,20 +38,24 @@ title: Inicio
 
         <div class="masonrygrid row listrecent">
 
-            {% for post in paginator.posts %}
+            <div class="col-md-6 col-sm-12">
 
-            {% unless post.featured == true %}
+                {% for post in paginator.posts %}
 
-                {% include postbox.html %}
+                {% unless post.featured == true %}
 
-            {% endunless %}
+                    {% include postbox.html %}
 
-            {% endfor %}
+                {% endunless %}
+
+                {% endfor %}
+
+            </div>
 
         </div>
 
         <!-- Pagination -->
-        <div class="bottompagination">
+        <!-- <div class="bottompagination">
 
             <span class="navigation" role="navigation">
 
@@ -83,7 +63,34 @@ title: Inicio
 
             </span>
 
-        </div>
+        </div> -->
+
+    </div>
+
+</section>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Destacados</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag carousel slide">
+
+        {% for post in site.posts %}
+
+
+            {% if post.featured == true %}
+
+                {% include featuredbox.html %}
+
+            {% endif %}
+
+        {% endfor %}
+
 
     </div>
 
