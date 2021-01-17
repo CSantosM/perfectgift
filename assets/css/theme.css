@@ -52,6 +52,9 @@ section {
 section.featured-posts {
     margin-bottom:30px;
 }
+section.amazon-posts {
+    margin-bottom:10px;
+}
 section.recent-posts {
     margin-bottom:0;
 }
@@ -164,7 +167,7 @@ section.recent-posts {
 }
 .listfeaturedtag .wrapthumbnail {
 	height:258px;
-	flex:0 0 auto;
+    flex:0 0 auto;
 }
 .listfeaturedtag .card {
 	border-radius:2px;
@@ -173,12 +176,14 @@ section.recent-posts {
 	margin-bottom:15px;
 }
 .listfeaturedtag .thumbnail {
-	background-size:cover;
-	height:100%;
-	display:block;
+    /* background-size:contain;
+    background-repeat: no-repeat; */
+    margin: auto;
+	max-height:100%;
+	/* display:block;
 	background-position:38% 22% !important;
 	background-origin:border-box!important;
-	border-top-left-radius:2px;
+	border-top-left-radius:2px; */
 }
 .listfeaturedtag .card-block {
 	padding-left:0;
@@ -330,7 +335,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/pattern.jpg);
+    background-image:url(../images/bg-intro.png);
     background-size:cover;
     padding: 3rem 0;
     margin-top:-87px;
@@ -600,7 +605,14 @@ a.btn {color:#fff;}
 	font-weight:600;
 	text-transform:uppercase;
 }
-.btn.amazon {
+.amazon-div-btn{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0px 30px;
+}
+.amazon-btn {
 	text-align:center;
 	display:inline-block;
     box-shadow: none;

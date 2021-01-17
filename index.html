@@ -7,12 +7,10 @@ title: Inicio
 ================================================== -->
 <section class="intro full-width">
     <div class="wrapintro">
-        <h1>Regalo</h1>
-        <h2 class="lead">La palabra regalo viene del francés y quiere decir que es un obsequio que brinda placer. Viene de (re) galo, en sentido de gala, galantería y galán. Es decir, viene del verbo galer que significa divertirse
+        <h1>Regalos 2021</h1>
+        <h2 class="lead">Es posible que estés buscando un <a href="regalo/san-valentin/2021/01/14/san-valentin.html">regalo para San Valentín</a>, un <a href="regalo/original/2021/01/12/originales.html">regalo original</a> para tu amiga o quizá un <a href="regalo/mama/2021/01/13/mama.html">regalo para mamá</a>. Enhorabuena, estás en el sitio correcto.</h2>
+        <h2 class="lead">Te daremos <span style="font-weight: bold;">ideas sobre que regalar en 2021</span> y no fracasar en el intento. Echa un vistazo a nuestras categorías y encuentra el regalo perfecto.</h2>
 
-            Los regalos son una de las formas en que se transmiten la imagen que tienen los demás de nosotros.
-            Regalamos para mostrar amor, como forma de agradecimiento, porque así se espera de nosotros (un cumpleaños, una boda, amigo invisible, regalos de navidad, aniversario...) y por provocar la felicidad del otro que a su vez nos genera felicidad a nosotros.</h2>
-        <h2 class="lead">Si estás buscando un regalo para alguien, estás en el sitio correcto. Vamos a echar un vistazo a las categorías.</h2>
         <a href="#category" class="btn">Ver categorías</a>
     </div>
 </section>
@@ -28,8 +26,6 @@ title: Inicio
 {% endif %}
 
 <section class="recent-posts row" id="category">
-
-
     <div class="col-12">
 
         <div class="section-title">
@@ -38,19 +34,15 @@ title: Inicio
 
         <div class="masonrygrid row listrecent">
 
-            <div class="col-md-6 col-sm-12">
+            {% for post in paginator.posts %}
 
-                {% for post in paginator.posts %}
-
-                {% unless post.featured == true %}
+                {% if post.show == true and post.amazon == false and post.featured == false  %}
 
                     {% include postbox.html %}
 
-                {% endunless %}
+                {% endif %}
 
-                {% endfor %}
-
-            </div>
+            {% endfor %}
 
         </div>
 
@@ -72,20 +64,24 @@ title: Inicio
 
 <!-- Featured
 ================================================== -->
-<section class="featured-posts">
+<section class="amazon-posts" id="bestsellers-it">
+
 
     <div class="section-title">
-        <h2><span>Destacados</span></h2>
+        <h2><span>Regalos tecnológicos más vendidos en 2021</span></h2>
+        <p>
+            En esta sección te presenamos algunos de los regalos tecnológicos mas vendidos en el 2021 hasta la fecha.
+            Si tu intención es hacer un regalo electrónico popular, echa un vistazo a estos productos de Amazon.
+        </p>
     </div>
 
-    <div class="row listfeaturedtag carousel slide">
+    <div class="row listfeaturedtag">
 
         {% for post in site.posts %}
 
+            {% if post.amazon == true and post.category == 'it' %}
 
-            {% if post.featured == true %}
-
-                {% include featuredbox.html %}
+                {% include amazonproduct.html %}
 
             {% endif %}
 
@@ -95,3 +91,57 @@ title: Inicio
     </div>
 
 </section>
+<br>
+<section class="amazon-posts" id="bestsellers-books">
+
+    <div class="section-title">
+        <h2><span>Libros más vendidos en 2021</span></h2>
+        <p>
+           Regalar un buen libro siempre es una de las mejores opciones para el crecimiento personal.
+           Aquí te mostramos algunos de los libros más populares de este año, sin duda, una bonita elección para tu regalo perfecto.
+        </p>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+        {% for post in site.posts %}
+
+            {% if post.amazon == true and post.category == 'Libro' %}
+
+                {% include amazonproduct.html %}
+
+            {% endif %}
+
+        {% endfor %}
+
+
+    </div>
+
+</section>
+
+
+<script>
+    window.onload = function() {
+        $('.listfeaturedtag').slick({
+            autoplay: false,
+            arrows: true,
+            prevArrow: '<div class="slick-btn slick-btn-prev"><i class="fa fa-chevron-left"></i></div>',
+            nextArrow: '<div class="slick-btn slick-btn-next"><i class="fa fa-chevron-right"></i></div>',
+            autoplaySpeed: 4000,
+            dots: true,
+            infinite: true,
+            pauseOnHover: false,
+            pauseOnFocus: false,
+            slidesToShow: 2,
+            responsive: [
+            {
+                breakpoint: 770,
+                settings: {
+                arrows: false,
+                slidesToShow: 1
+                }
+            },
+            ]
+        });
+    };
+</script>

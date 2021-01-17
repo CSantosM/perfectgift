@@ -1,0 +1,37 @@
+<div class="col-sm-6">
+	<div class="card">
+		<div class="row">
+			<div class="col-md-5 wrapthumbnail">
+				<a href="{{ post.affiliateurl }}" target="_blank">
+
+					<img class="thumbnail" src="{{ post.image }}" alt="{{ post.title }}">
+				</a>
+			</div>
+			<div class="col-md-7">
+				<div class="card-block amazon-product-body">
+					<h2 class="card-title"><a href="{{ post.affiliateurl }}" target="_blank">{{ post.title }}</a></h2>
+
+					<h4 class="card-text">
+						{% if post.description %}
+							{{ post.description |  truncatewords:25 }}
+						{% endif %}
+
+						<ul>
+							{% for feature in post.features %}
+								<li>{{ feature }}</li>
+							{% endfor %}
+						</ul>
+					</h4>
+					<div class="amazon-div-btn">
+						<a class="btn btn-primary btn-block amazon-btn" href="{{ post.affiliateurl }}" target="_blank">
+							<i class="fa fa-shopping-cart amazon-cart"></i>
+							Ver en amazon
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+
