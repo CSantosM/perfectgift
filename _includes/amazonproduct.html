@@ -9,7 +9,7 @@
 			</div>
 			<div class="col-md-7">
 				<div class="card-block amazon-product-body">
-					<h2 class="card-title"><a href="{{ post.affiliateurl }}" target="_blank">{{ post.title }}</a></h2>
+					<h2 class="card-title"><a href="{{ post.affiliateurl }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a></h2>
 
 					<h4 class="card-text">
 						{% if post.description %}
@@ -23,7 +23,7 @@
 						</ul>
 					</h4>
 					<div class="amazon-div-btn">
-						<a class="btn btn-primary btn-block amazon-btn" href="{{ post.affiliateurl }}" target="_blank">
+						<a class="btn btn-primary btn-block amazon-btn" href="{{ post.affiliateurl }}" target="_blank" rel="noopener noreferrer">
 							<i class="fa fa-shopping-cart amazon-cart"></i>
 							Ver en amazon
 						</a>

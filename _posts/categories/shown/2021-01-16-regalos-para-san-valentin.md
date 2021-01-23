@@ -22,17 +22,17 @@ Sin duda que este es un año (y el anterior también) para reflexionar en lo imp
 
 <div class="row">
 	<div class="col-6">
-		<a href="https://amzn.to/3bVA05B" target="_blank">
+		<a href="https://amzn.to/3bVA05B" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/61RC6Ud7uxL._AC_SX569_.jpg" alt="regalo san valentin lampara">
 		</a>
 	</div>
 	<div class="col-6">
-		<a href="https://amzn.to/3bVA05B" target="_blank">
+		<a href="https://amzn.to/3bVA05B" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/51S-LRHzV5L._AC_SL1024_.jpg" alt="regalo san valentin caja">
 		</a>
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
-		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3bVA05B" target="_blank">
+		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3bVA05B" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
 		</a>
@@ -46,17 +46,17 @@ Si tu pareja es aficionada a la fotograría, regalar esta impresora de bolsillo 
 
 <div class="row">
 	<div class="col-6">
-		<a href="https://amzn.to/2XVsuiX" target="_blank">
+		<a href="https://amzn.to/2XVsuiX" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/71UQIFIscEL._AC_SL1500_.jpg" alt="regalo san valentin fotos">
 		</a>
 	</div>
 	<div class="col-6">
-		<a href="https://amzn.to/2XVsuiX" target="_blank">
+		<a href="https://amzn.to/2XVsuiX" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/71iKFXo7xKL._AC_SL1500_.jpg" alt="regalo san valentin fotos">
 		</a>
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
-		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2XVsuiX" target="_blank">
+		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2XVsuiX" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
 		</a>
@@ -71,17 +71,17 @@ Crea un recuerdo atemporal con tu pareja creando una escultura **inmortalizando 
 
 <div class="row">
 	<div class="col-6">
-		<a href="https://amzn.to/3p45b2b" target="_blank">
+		<a href="https://amzn.to/3p45b2b" target="_blank" rel="noopener noreferrer">
 			<img src="https://m.media-amazon.com/images/I/611Y-wgBCoL._AC_SL1500_.jpg" alt="regalo san valentin moldes">
 		</a>
 	</div>
 	<div class="col-6">
-		<a href="https://amzn.to/3p45b2b" target="_blank">
+		<a href="https://amzn.to/3p45b2b" target="_blank" rel="noopener noreferrer">
 			<img src="https://m.media-amazon.com/images/I/712baqeUHNL._AC_SL1500_.jpg" alt="regalo san valentin moldes">
 		</a>
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
-		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3p45b2b" target="_blank">
+		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3p45b2b" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
 		</a>
@@ -96,17 +96,17 @@ Para afianzar la relacion, conocer a tu pareja un poco más y descubrir cosas qu
 
 <div class="row">
 	<div class="col-6">
-		<a href="https://amzn.to/2Ky4zTF" target="_blank">
+		<a href="https://amzn.to/2Ky4zTF" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/71g7c0nWDDL._AC_SL1500_.jpg" alt="regalo san valentin juego de amor">
 		</a>
 	</div>
 	<div class="col-6">
-		<a href="https://amzn.to/2Ky4zTF" target="_blank">
+		<a href="https://amzn.to/2Ky4zTF" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/81fMPygdlZL._AC_SL1500_.jpg" alt="regalo san valentin juego de amor">
 		</a>
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
-		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2Ky4zTF" target="_blank">
+		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2Ky4zTF" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
 		</a>
@@ -121,17 +121,17 @@ Si lo que buscas es un poco de perversión, aventura y desenfreno el dia de San 
 
 <div class="row">
 	<div class="col-6">
-		<a href="https://amzn.to/2XYZQ0k" target="_blank">
+		<a href="https://amzn.to/2XYZQ0k" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/81KMEdbr7gL._AC_SL1500_.jpg" alt="regalo san valentin vales eróticos">
 		</a>
 	</div>
 	<div class="col-6">
-		<a href="https://amzn.to/2XYZQ0k" target="_blank">
+		<a href="https://amzn.to/2XYZQ0k" target="_blank" rel="noopener noreferrer">
 			<img src="https://images-na.ssl-images-amazon.com/images/I/81z41E5YxLL._AC_SL1500_.jpg" alt="regalo san valentin eróticos">
 		</a>
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
-		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2XYZQ0k" target="_blank">
+		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2XYZQ0k" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
 		</a>
