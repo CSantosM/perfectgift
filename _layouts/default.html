@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 <title>{{ page.title }} | {{site.name}}</title>
 {% seo %}
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/downloads/bootstrap.min.css" crossorigin="anonymous">
+<link href="{{ site.baseurl }}/assets/css/downloads/fontawesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/downloads/fontawesome.css" crossorigin="anonymous">
+<link href="{{ site.baseurl }}/assets/css/downloads/rubik.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/downloads/slick-1.6.0.css"/>
@@ -269,10 +269,18 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 ================================================== -->
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+jQuery.event.special.touchstart = {
+        setup: function( _, ns, handle ){
+            this.addEventListener("touchstart", handle, { passive: true });
+        }
+    }
+</script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+<script src="{{ site.baseurl }}/assets/js/downloads/tether.min.js" crossorigin="anonymous"></script>
+
+<script src="{{ site.baseurl }}/assets/js/downloads/bootstrap.min.js" crossorigin="anonymous"></script>
 
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
