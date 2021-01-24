@@ -5,7 +5,7 @@ show: true
 featured: false
 amazon: false
 categories: [ regalo, San-Valentin ]
-image: assets/images/san-valentin.png
+image: assets/images/san-valentin.webp
 ---
 Ahora que se acerca el día de los enamorados (14 de Febrero), es el momento de sorprender a tu pareja. Pero surgen las inevitables preguntas ¿qué comprar en San Valentín? ¿Cómo dar el mejor regalo a mi pareja? ¿Apostar por un regalo clásico o atreverse a ser original?
 
