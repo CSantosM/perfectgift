@@ -1,8 +1,8 @@
 # Site
 name: "ElRegaloPerfecto"
 title: "Regalo perfecto"
-description: "Encuentra el regalo perfecto para San Valentín, para tu mamá o para tu mascota. Tenemos las mejores ideas para regalar este 2021"
-meta_description: "Encuentra el regalo perfecto para San Valentín, para tu mamá o para tu mascota. Tenemos las mejores ideas para regalar este 2021"
+description: "Descubre nuestras ideas de regalos originales para el 2021 que no te van a defraudar. Regalos para San Valentín"
+meta_description: "Descubre nuestras ideas de regalos originales para el 2021 que no te van a defraudar. Regalos para San Valentín"
 logo: 'assets/images/icon.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 20
