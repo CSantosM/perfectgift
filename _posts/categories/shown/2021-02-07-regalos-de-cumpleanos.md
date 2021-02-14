@@ -11,7 +11,7 @@ image: assets/images/birthday.webp
 
 Los regalos de cumpleaños son una excelente manera de demostrar, como mínimo, que recuerdas la **fecha especial de esa persona**. Los mejores regalos son aquellos que están relacionados con las aficiones, inquietudes particulares o gustos de esa persona
 
-Quizá pienses que para hacer un buen regalo haya que gastar mucho dinero pero esto no siempre es cierto.**No tiene que ser algo costoso**, con creatividad y un poco de tiempo puedes obsequiar regalos maravillosos que sorprenderán a ese cumpleañero o cumpleañera.
+Quizá pienses que para hacer un buen regalo haya que gastar mucho dinero pero esto no siempre es cierto. **No tiene que ser algo costoso**, con creatividad y un poco de tiempo puedes obsequiar regalos maravillosos que sorprenderán a ese cumpleañero o cumpleañera.
 
 Dejado atrás el 2020, es el mejor momento para aprovechar esta ocasión y hacer el regalo más *cool* y original. Te mostramos algunas ideas interesantes para regalar el dia de cumpleaños y que te servirán de inspiración para conseguir tu regalo perfecto.
 
@@ -40,14 +40,10 @@ Un regalo super económico para el día de su cumpleaños son estos maravillosos
 
 <div class="row">
 	<div class="col-6" style="text-align: center;">
-		<a href="https://amzn.to/2YWdstA" target="_blank" rel="noopener noreferrer">
-			<img src="https://images-na.ssl-images-amazon.com/images/I/61eFz4WQJuL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
-		</a>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/61eFz4WQJuL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
 	</div>
 	<div class="col-6" style="text-align: center;">
-		<a href="https://amzn.to/2YWdstA" target="_blank" rel="noopener noreferrer">
-			<img src="https://images-na.ssl-images-amazon.com/images/I/61vvo5ZTypL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
-		</a>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/61vvo5ZTypL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2YWdstA" target="_blank" rel="noopener noreferrer">
@@ -78,9 +74,7 @@ Estos **Auriculares DOQAUS** cuentan con más de **12.000 votos positivos en Ama
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<a href="https://amzn.to/39WEs2w" target="_blank" rel="noopener noreferrer" >
-			<img src="https://m.media-amazon.com/images/I/71CSoGF57JL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
-		</a>
+		<img src="https://m.media-amazon.com/images/I/71CSoGF57JL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%; text-align: center">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/39WEs2w" target="_blank" rel="noopener noreferrer">
@@ -103,9 +97,7 @@ Unos de los **altavoces inalámbricos más populares** y con **mejor relación c
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<a href="https://amzn.to/3ty4Ffv" target="_blank" rel="noopener noreferrer">
-			<img src="https://images-na.ssl-images-amazon.com/images/I/717Ez7pdOKL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
-		</a>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/717Ez7pdOKL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3ty4Ffv" target="_blank" rel="noopener noreferrer">
@@ -125,9 +117,7 @@ Nuestra recomendación para el regalo perfecto de cumpleaños para el enriquecec
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<a href="https://amzn.to/3p1R78C" target="_blank" rel="noopener noreferrer">
-			<img src="https://images-na.ssl-images-amazon.com/images/I/6124iPKj55L._AC_SL1000_.jpg" alt="regalo de cumpleaños Kindle ebook" loading="lazy" style="max-width: 500px">
-		</a>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/6124iPKj55L._AC_SL1000_.jpg" alt="regalo de cumpleaños Kindle ebook" loading="lazy" style="max-width: 500px">
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3p1R78C" target="_blank" rel="noopener noreferrer">
@@ -149,9 +139,7 @@ Alexa está lista para ayudarte, puedes pedir que te cuente un chiste, ponga mú
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<a href="https://amzn.to/3cVMWsN" target="_blank" rel="noopener noreferrer">
-			<img src="https://images-na.ssl-images-amazon.com/images/I/61-WmT%2BY7eL._AC_SL1000_.jpg" alt="regalo de cumpleaños alexa echo dot" loading="lazy" style="max-width: 500px">
-		</a>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/61-WmT%2BY7eL._AC_SL1000_.jpg" alt="regalo de cumpleaños alexa echo dot" loading="lazy" style="max-width: 500px">
 	</div>
 	<div style="margin: auto; padding: 15px; width: 70%;">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3cVMWsN" target="_blank" rel="noopener noreferrer">
