@@ -39,13 +39,13 @@ Si el cumpleañero o cumpleañera se pasa el dia escuchando música en Spotify, 
 Un regalo super económico para el día de su cumpleaños son estos maravillosos **auriculares bluetooth** con más de **17.000 opiniones positivas en Amazon**.
 
 <div class="row">
-	<div class="col-6" style="text-align: center;">
+	<div class="col-lg-6 col-md-6 col-sm-12" style="text-align: center;">
 		<img src="https://images-na.ssl-images-amazon.com/images/I/61eFz4WQJuL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
 	</div>
-	<div class="col-6" style="text-align: center;">
+	<div class="col-lg-6 col-md-6 col-sm-12" style="text-align: center;">
 		<img src="https://images-na.ssl-images-amazon.com/images/I/61vvo5ZTypL._AC_SL1000_.jpg" alt="regalo de cumpleaños auriculares bluetooth" loading="lazy">
 	</div>
-	<div style="margin: auto; padding: 15px; width: 70%;">
+	<div class="amazon-btn-container">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/2YWdstA" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver oferta en Amazon
@@ -65,7 +65,7 @@ Estos auriculares cuentan con:
 
 Si te ha gustado la idea de regalar unos auriculares inalámbricos pero no te gusta este tipo de dispositivo, una tendencia muy demandada en el mercado son los auriculares de diadema o *auriculares gaming*.
 
-Los regalos gaming son una excelente opción para acertar de lleno. Con el boom de los *YouTubers* y *streamers* en plataformas como Twitch, el mundo gaming está recolucionando el entretenimiento virtual de los más jóvenes y no tan jóvenes.
+Los **regalos gaming** son una excelente opción para acertar de lleno. Con el boom de los *YouTubers* y *streamers* en plataformas como Twitch, el mundo gaming está recolucionando el entretenimiento virtual de los más jóvenes y no tan jóvenes.
 
 Todo el que sea aficionado/a al mundo de los videojuegos necesita unos **buenos cascos con micrófono integrado** para sus partidas online.
 
@@ -74,9 +74,9 @@ Estos **Auriculares DOQAUS** cuentan con más de **12.000 votos positivos en Ama
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<img src="https://m.media-amazon.com/images/I/71CSoGF57JL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
+		<img src="https://m.media-amazon.com/images/I/71CSoGF57JL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" class="amz-img">
 	</div>
-	<div style="margin: auto; padding: 15px; width: 70%; text-align: center">
+	<div class="amazon-btn-container">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/39WEs2w" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver oferta en Amazon
@@ -97,9 +97,9 @@ Unos de los **altavoces inalámbricos más populares** y con **mejor relación c
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<img src="https://images-na.ssl-images-amazon.com/images/I/717Ez7pdOKL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" style="max-width: 500px">
+		<img src="https://images-na.ssl-images-amazon.com/images/I/717Ez7pdOKL._AC_SL1500_.jpg" alt="regalo de cumpleaños altavoz bluetooth" loading="lazy" class="amz-img">
 	</div>
-	<div style="margin: auto; padding: 15px; width: 70%;">
+	<div class="amazon-btn-container">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3ty4Ffv" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver oferta en Amazon
@@ -117,9 +117,9 @@ Nuestra recomendación para el regalo perfecto de cumpleaños para el enriquecec
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<img src="https://images-na.ssl-images-amazon.com/images/I/6124iPKj55L._AC_SL1000_.jpg" alt="regalo de cumpleaños Kindle ebook" loading="lazy" style="max-width: 500px">
+		<img src="https://images-na.ssl-images-amazon.com/images/I/6124iPKj55L._AC_SL1000_.jpg" alt="regalo de cumpleaños Kindle ebook" loading="lazy" class="amz-img">
 	</div>
-	<div style="margin: auto; padding: 15px; width: 70%;">
+	<div class="amazon-btn-container">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3p1R78C" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
@@ -139,9 +139,9 @@ Alexa está lista para ayudarte, puedes pedir que te cuente un chiste, ponga mú
 
 <div class="row">
 	<div class="col-12" style="text-align: center;">
-		<img src="https://images-na.ssl-images-amazon.com/images/I/61-WmT%2BY7eL._AC_SL1000_.jpg" alt="regalo de cumpleaños alexa echo dot" loading="lazy" style="max-width: 500px">
+		<img src="https://images-na.ssl-images-amazon.com/images/I/61-WmT%2BY7eL._AC_SL1000_.jpg" alt="regalo de cumpleaños alexa echo dot" loading="lazy" class="amz-img">
 	</div>
-	<div style="margin: auto; padding: 15px; width: 70%;">
+	<div class="amazon-btn-container">
 		<a class="btn btn-primary btn-block amazon-btn" href="https://amzn.to/3cVMWsN" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-shopping-cart amazon-cart"></i>
 			Ver en amazon
