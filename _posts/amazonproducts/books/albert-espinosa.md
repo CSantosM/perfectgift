@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "Si nos enseñaran a perder, ganaríamos siempre"
 # author: sal
 #categories: [ Jekyll, tutorial ]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "POCO X3 NFC Smartphone"
 # author: sal
 # categories: [ Jekyll, tutorial ]

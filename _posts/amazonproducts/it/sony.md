@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "Sony SRS-XB23 - Altavoz Bluetooth"
 # author: sal
 # categories: [ Jekyll, tutorial ]

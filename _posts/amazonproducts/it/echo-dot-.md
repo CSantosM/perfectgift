@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "Echo Dot + Amazon Smart Plug"
 # author: sal
 # categories: [ Jekyll, tutorial ]

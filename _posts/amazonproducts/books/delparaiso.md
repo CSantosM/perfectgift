@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "Delparaíso (Tapa blanda)"
 # author: sal
 #categories: [ Jekyll, tutorial ]

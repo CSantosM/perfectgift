@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "¡A la mierda el amor!: Sé una perra y vive más (Influencers)"
 # author: sal
 #categories: [ Jekyll, tutorial ]

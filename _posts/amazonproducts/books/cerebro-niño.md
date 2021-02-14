@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "El cerebro del niño explicado a los padres"
 # author: sal
 #categories: [ Jekyll, tutorial ]
