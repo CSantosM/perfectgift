@@ -4,7 +4,7 @@ title:  "Regalos de cumpleaños"
 show: true
 featured: false
 amazon: false
-categories: [ regalo, cumpleaños ]
+categories: [ regalo, cumpleanos ]
 image: assets/images/birthday.webp
 ---
 
