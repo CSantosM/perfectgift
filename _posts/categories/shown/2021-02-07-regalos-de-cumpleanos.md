@@ -1,6 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Regalos de cumpleaños"
+permalink: regalos-de-cumpleanos
 show: true
 featured: false
 amazon: false
@@ -10,7 +11,7 @@ image: assets/images/birthday.webp
 
 Los regalos de cumpleaños son una excelente manera de demostrar, como mínimo, que recuerdas la **fecha especial de esa persona**. Los mejores regalos son aquellos que están relacionados con las aficiones, inquietudes particulares o gustos de esa persona
 
-Quizá pienses que para hacer un buen regalo haya que gastar mucho dinero pero esto no siempre es cierto.** No tiene que ser algo costoso**, con creatividad y un poco de tiempo puedes obsequiar regalos maravillosos que sorprenderán a ese cumpleañero o cumpleañera.
+Quizá pienses que para hacer un buen regalo haya que gastar mucho dinero pero esto no siempre es cierto.**No tiene que ser algo costoso**, con creatividad y un poco de tiempo puedes obsequiar regalos maravillosos que sorprenderán a ese cumpleañero o cumpleañera.
 
 Dejado atrás el 2020, es el mejor momento para aprovechar esta ocasión y hacer el regalo más *cool* y original. Te mostramos algunas ideas interesantes para regalar el dia de cumpleaños y que te servirán de inspiración para conseguir tu regalo perfecto.
 

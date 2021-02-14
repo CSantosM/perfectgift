@@ -1,6 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Regalos para San Valentín"
+permalink: regalos-para-san-valentin
 show: true
 featured: false
 amazon: false
